@@ -1,0 +1,16 @@
+document vs windows
+ document
+ *call html
+ head         body
+ title        h1,div,<p>
+ document one by one call working
+
+
+ windows
+
+ *navigator
+ *document
+ *history
+ *screen
+ *location
+  waindows atten time all work compelete
